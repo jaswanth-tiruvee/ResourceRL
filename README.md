@@ -2,6 +2,9 @@
 
 A Reinforcement Learning agent that autonomously optimizes resource allocation (server uptime, job queue priority) in a simulated environment, reducing latency by up to 25% compared to static scheduling rules.
 
+## Live App
+https://resourcerl.streamlit.app/
+
 ## 🎯 Project Overview
 
 This project implements an RL agent using **Stable Baselines3** to learn optimal resource scheduling policies. The agent interacts with a custom **Gymnasium** environment that simulates a server system with dynamic job queues, learning to allocate priorities intelligently to minimize latency and maximize efficiency.
@@ -237,7 +240,4 @@ Feel free to fork, modify, and extend this project. Some ideas:
 - [PPO Paper](https://arxiv.org/abs/1707.06347)
 - [A2C Paper](https://arxiv.org/abs/1602.01783)
 
----
-
-**Resume Pitch**: "Implemented a Reinforcement Learning agent (using Stable Baselines3) to autonomously optimize resource allocation (e.g., server uptime, job queue priority) in a simulated environment, reducing latency by 25% compared to static scheduling rules."
 
