@@ -240,7 +240,4 @@ Feel free to fork, modify, and extend this project. Some ideas:
 - [PPO Paper](https://arxiv.org/abs/1707.06347)
 - [A2C Paper](https://arxiv.org/abs/1602.01783)
 
----
-
-**Resume Pitch**: "Implemented a Reinforcement Learning agent (using Stable Baselines3) to autonomously optimize resource allocation (e.g., server uptime, job queue priority) in a simulated environment, reducing latency by 25% compared to static scheduling rules."
 
